@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="EventContext-Web.config Connection String" description="EventContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\ProjectsV13; Initial Catalog=Volunteering; AttachDBFilename=|DataDirectory|\Volunteering.mdf; Integrated Security=SSPI;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\dhava\\documents\\visual\ studio\ 2015\\Projects\\Volunteering\\Volunteering\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EventContext']/@connectionString" />
+  </parameter>
+</parameters>
